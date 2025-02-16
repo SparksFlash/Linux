@@ -1,0 +1,7 @@
+2. Give Your User Permission to Paste in Root
+If you want to paste using the GUI, give yourself write access.
+
+a) Change Ownership of Root Folder
+If you need to paste into root (/), allow your user access:
+
+sudo chown -R $USER:$USER /
