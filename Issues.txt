@@ -5,3 +5,9 @@ a) Change Ownership of Root Folder
 If you need to paste into root (/), allow your user access:
 
 sudo chown -R $USER:$USER /
+
+2. Sudo check cmd
+
+sudo test
+su
+su -
