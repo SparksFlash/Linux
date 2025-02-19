@@ -13,4 +13,7 @@ su
 su -
 
 3. Download 
-sudo pacman -S name
+sudo pacman -S name_soft
+
+4. Move to root from vscode terminal
+sudo cp -r LOGIN/ /opt/lampp/htdocs/
