@@ -11,3 +11,6 @@ sudo chown -R $USER:$USER /
 sudo test
 su
 su -
+
+3. Download 
+sudo pacman -S name
