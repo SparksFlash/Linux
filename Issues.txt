@@ -17,3 +17,6 @@ sudo pacman -S name_soft
 
 4. Move to root from vscode terminal
 sudo cp -r LOGIN/ /opt/lampp/htdocs/
+
+5. Update system
+sudo pacman -Syu
