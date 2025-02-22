@@ -20,3 +20,6 @@ sudo cp -r LOGIN/ /opt/lampp/htdocs/
 
 5. Update system
 sudo pacman -Syu
+
+6. Show date
+cal
