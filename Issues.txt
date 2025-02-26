@@ -35,3 +35,5 @@ echo "Manzaro Linux"    /// will print Manzaro Linux
 echo "Basic commamds" > file.text  //// create a text file named file
 echo "Add this line into the last of the text file" >> file.txt
 echo "Using > for overwritten" > file.txt  //// All contents will gone and this string will store in that file
+
+10 .
