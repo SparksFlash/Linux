@@ -36,4 +36,7 @@ echo "Basic commamds" > file.text  //// create a text file named file
 echo "Add this line into the last of the text file" >> file.txt
 echo "Using > for overwritten" > file.txt  //// All contents will gone and this string will store in that file
 
-10 .
+10 .rm command
+rm [options] file1 file2
+
+Warning! Avoid using -r and -f unless necessary. Instead, add -i option to prevent accidental deletion.
