@@ -40,3 +40,5 @@ echo "Using > for overwritten" > file.txt  //// All contents will gone and this 
 rm [options] file1 file2
 
 Warning! Avoid using -r and -f unless necessary. Instead, add -i option to prevent accidental deletion.
+
+11 .Change Directory
