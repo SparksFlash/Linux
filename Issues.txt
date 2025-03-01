@@ -41,4 +41,9 @@ rm [options] file1 file2
 
 Warning! Avoid using -r and -f unless necessary. Instead, add -i option to prevent accidental deletion.
 
-11 .Change Directory
+11 .List files and folders
+ls
+ls -a       # list of all hidden files
+ls -l       # Tells more about thousand of folders
+ls -hs      # Tells about the size of the folders or files
+
