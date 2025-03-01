@@ -47,3 +47,6 @@ ls -a       # list of all hidden files
 ls -l       # Tells more about thousand of folders
 ls -hs      # Tells about the size of the folders or files
 
+man ls      # All the possible flags we can use with ls command
+              To exit from the flag list of man ls press 'Q'
+
