@@ -78,3 +78,10 @@ head -n 2 test.txt                    # prints the first 2 lines                
 Hey, Are you using cat cmd?
 Or anything to show inside it?
 
+base64 test.txt | base64 --decode                                                                            ✔ 
+Output : Hey, Are you using cat cmd?
+Or anything to show inside it?
+Like tac, head, or something.
+sourav
+
+
