@@ -66,3 +66,15 @@ cd ~
 
 13 .Show File contents
 cat test.txt
+head test.txt
+tac test.txt
+tail.txt
+
+tail -n 2 test.txt                    # prints the last 2 lines                                                                                           ✔ 
+Output : Like tac, head, or something.
+sourav
+
+head -n 2 test.txt                    # prints the first 2 lines                                                                                                ✔ 
+Hey, Are you using cat cmd?
+Or anything to show inside it?
+
