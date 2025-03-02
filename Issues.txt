@@ -63,3 +63,6 @@ cd ..
 
 To move to your home folder type
 cd ~
+
+13 .Show File contents
+cat test.txt
