@@ -51,3 +51,15 @@ ls -hsl  /   ls -h -s -l
 man ls      # All the possible flags we can use with ls command
               To exit from the flag list of man ls press 'Q'
 
+12 . Directory
+You can see the current folder with the command
+pwd
+
+To change your folder to Desktop type
+cd Desktop
+
+To move up a folder type
+cd ..
+
+To move to your home folder type
+cd ~
