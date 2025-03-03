@@ -64,6 +64,8 @@ cd ..
 To move to your home folder type
 cd ~
 
+
+
 13 .Show File contents
 cat test.txt
 head test.txt
@@ -83,5 +85,12 @@ Output : Hey, Are you using cat cmd?
 Or anything to show inside it?
 Like tac, head, or something.
 sourav
+
+
+
+
+14 . Find FILES
+
+
 
 
