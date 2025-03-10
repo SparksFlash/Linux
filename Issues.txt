@@ -95,5 +95,7 @@ ls
 
 
 ----- Next----
+## For search a package 
+pacman -S [packageName]
 
 
