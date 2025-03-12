@@ -1,4 +1,4 @@
-no1. Give Your User Permission to Paste in Root
+1. Give Your User Permission to Paste in Root
 If you want to paste using the GUI, give yourself write access.
 
 a) Change Ownership of Root Folder
@@ -98,4 +98,5 @@ ls
 ## For search a package 
 pacman -S [packageName]
 
+Date: 12.03
 
