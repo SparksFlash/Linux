@@ -100,3 +100,9 @@ pacman -S [packageName]
 
 Date: 12.03
 
+sudo: Executes a command with superuser privileges.
+ping: Tests network connectivity.
+grep: Searches for patterns in files.
+df: Displays disk space usage.
+wget: Downloads files from the internet. 
+
