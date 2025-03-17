@@ -107,6 +107,6 @@ df: Displays disk space usage.
 wget: Downloads files from the internet. 
 
 -----Udemy next-----
-find . -name "*.txt"                                                                 
+find . -name "*.txt" ( It shows                                                                 
 
 
