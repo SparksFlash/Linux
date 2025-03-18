@@ -108,5 +108,5 @@ wget: Downloads files from the internet.
 
 -----Udemy next-----
 find . -name "*.txt" ( It shows                                                                 
-
-
+find . -name "*example*"           ## with aestricks it will show the files named with example, it does not matter that whatever the full name of this file 
+find . -name "example*"           ## it will show the files only named example
