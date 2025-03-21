@@ -110,3 +110,12 @@ wget: Downloads files from the internet.
 find . -name "*.txt" ( It shows                                                                 
 find . -name "*example*"           ## with aestricks it will show the files named with example, it does not matter that whatever the full name of this file 
 find . -name "example*"           ## it will show the files only named example
+
+
+
+
+
+
+15. Search Inside Files
+grep "text" the_example.txt          ## Here if "text" exist in this the_example.txt file it will show the text inside the file
+
