@@ -118,4 +118,5 @@ DAte : 21.03.25
 
 15. Search Inside Files
 grep "text" the_example.txt          ## Here if "text" exist in this the_example.txt file it will show the text inside the file
+grep "text" *.txt                    ## This would search for the word in any of the text file
 
