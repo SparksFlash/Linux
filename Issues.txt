@@ -122,3 +122,9 @@ grep "text" *.txt                    ## This would search for the word in any of
 
 grep "Text" *.txt                    ## This search is case sensetive
 
+sudo whoami                                                                                                 
+[sudo] password for sourav: 
+Output : root
+sudo ls /root                                                                                            
+Output : Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos
+
