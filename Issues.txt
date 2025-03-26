@@ -135,5 +135,6 @@ ls -l                                 ## we saw permissions of file on the left 
 
 chmod +x file3.txt                    ## The file will be executable for anyone
 chmod -x file3.txt                    ## Remove the executable for all permission 
+chmod u=rw,g=r,o=r file3.txt          ## setting permissions for files
 
 
