@@ -128,3 +128,10 @@ Output : root
 sudo ls /root                                                                                            
 Output : Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos
 
+
+
+16 . Permissions
+ls -l                                 ## we saw permissions of file on the left in cmd prompt by this cmd
+
+
+
