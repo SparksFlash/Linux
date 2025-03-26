@@ -133,5 +133,7 @@ Output : Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Vide
 16 . Permissions
 ls -l                                 ## we saw permissions of file on the left in cmd prompt by this cmd
 
+chmod +x file3.txt                    ## The file will be executable for anyone
+chmod -x file3.txt                    ## Remove the executable for all permission 
 
 
