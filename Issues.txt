@@ -138,3 +138,4 @@ chmod -x file3.txt                    ## Remove the executable for all permissio
 chmod u=rw,g=r,o=r file3.txt          ## setting permissions for files
 
 
+17 . Download file(wget)
