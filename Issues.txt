@@ -141,5 +141,6 @@ chmod u=rw,g=r,o=r file3.txt          ## setting permissions for files
 17 . Download file(wget)
 18.Archive
 
+DATE : 4-1-2025
 
 -----------------------------------------END-----------------------------------------------------------
