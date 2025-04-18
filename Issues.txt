@@ -144,6 +144,8 @@ chmod u=rw,g=r,o=r file3.txt          ## setting permissions for files
 ls
 
 DATE : 4-01-2025
+** Display network Information 
+   nmcli
 
 session var
 
