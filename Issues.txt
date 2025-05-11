@@ -151,5 +151,7 @@ session var ওকে
 
 
 df - displays disk space usage
+diff: Compares two files and displays the differences.
+cmp: Compares two files and determines if they are identical.
 
 -----------------------------------------END-----------------------------------------------------------------------
