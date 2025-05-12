@@ -1,4 +1,4 @@
-1. Give Your User Permission to Paste in Root
+b1. Give Your User Permission to Paste in Root
 If you want to paste using the GUI, give yourself write access.
 
 a) Change Ownership of Root Folder
@@ -153,5 +153,7 @@ session var ওকে
 df - displays disk space usage
 diff: Compares two files and displays the differences.
 cmp: Compares two files and determines if they are identical.
+uname: Displays system information.
+whoami: Displays the current user's name.
 
 -----------------------------------------END-----------------------------------------------------------------------
