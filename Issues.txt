@@ -1,4 +1,4 @@
-b1. Give Your User Permission to Paste in Root
+1. Give Your User Permission to Paste in Root
 If you want to paste using the GUI, give yourself write access.
 
 a) Change Ownership of Root Folder
@@ -156,4 +156,4 @@ cmp: Compares two files and determines if they are identical.
 uname: Displays system information.
 whoami: Displays the current user's name.
 
------------------------------------------ENDS HERE-----------------------------------------------------------------------
+-----------------------------------------ENDS HERE---------------------------------------------------------------------------
