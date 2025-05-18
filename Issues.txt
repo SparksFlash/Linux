@@ -160,4 +160,12 @@ whoami: Displays the current user's name.
 Help & Information: 
 man: Displays manual pages for commands.
 help: Displays help messages for built-in commands.
+
+
+Networking: 
+ping: Checks network connectivity by sending ICMP echo requests.
+netstat: Displays network connections.
+
+
+
 -----------------------------------------ENDS HERE---------------------------------------------------------------------------
