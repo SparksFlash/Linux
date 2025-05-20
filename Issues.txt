@@ -166,6 +166,8 @@ Networking:
 ping: Checks network connectivity by sending ICMP echo requests.
 netstat: Displays network connections.
 
+Date: 20.5
+
 
 
 -----------------------------------------ENDS HERE------------------------------------------------------------------------------
