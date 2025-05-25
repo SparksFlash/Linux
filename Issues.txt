@@ -175,7 +175,7 @@ The main usage of the mv command is to move a file or folder to another location
 
 mv file_or_directory [target_directory]
 1.ping: Checks network connectivity by sending ICMP echo requests
-2.
+2.tar: Creates, extracts, and archives files.
 
 
 
