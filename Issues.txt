@@ -178,7 +178,7 @@ mv file_or_directory [target_directory]
 2.tar: Creates, extracts, and archives files.
 
 
-DATE
+DATE : Staging areas
 
 
 -----------------------------------------ENDS HERE-------------------------------------------------------------------------------
