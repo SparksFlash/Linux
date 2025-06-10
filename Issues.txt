@@ -165,6 +165,7 @@ help: Displays help messages for built-in commands.
 Networking: 
 ping: Checks network connectivity by sending ICMP echo requests.
 netstat: Displays network connections.
+free: Shows memory usage.
 
 Date: 20.5
 
