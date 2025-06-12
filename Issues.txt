@@ -178,6 +178,10 @@ mv file_or_directory [target_directory]
 1.ping: Checks network connectivity by sending ICMP echo requests
 2.tar: Creates, extracts, and archives files.
 
+3.The awk command searches and manipulates regular expression patterns in a file. Here’s the basic syntax:
+
+awk '/regex pattern/{action}' input_file.txt
+
 
 DATE : Staging areas
 man -
