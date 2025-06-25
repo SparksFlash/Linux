@@ -184,7 +184,7 @@ awk '/regex pattern/{action}' input_file.txt
 
 
 DATE : Staging areas
-man -
+man - linux
 
 
 -----------------------------------------ENDS HERE-------------------------------------------------------------------------------
