@@ -183,8 +183,15 @@ mv file_or_directory [target_directory]
 awk '/regex pattern/{action}' input_file.txt
 
 
-DATE : Staging areas
-man - linux
+
+
+The tee command outputs another command’s results to both the Terminal and a file. It’s helpful if you want to use the data for further processing or backups. Here’s the syntax:
+
+command | tee [options] file_name
+
+For example, we will save the ping command’s output as new entries in the test_network.txt file:
+
+ping 8.8.8.8 | tee -a test_network.txt
 
 
 -----------------------------------------ENDS HERE-------------------------------------------------------------------------------
