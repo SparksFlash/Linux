@@ -93,6 +93,8 @@ sourav
 Date : 07.03.2025
 ls
 
+15. history: Displays previously executed commands. 
+
 
 ----- Next----
 ## For search a package 
