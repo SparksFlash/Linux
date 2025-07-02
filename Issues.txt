@@ -96,6 +96,15 @@ ls
 15. history: Displays previously executed commands. 
 
 
+Other Useful Commands:
+echo: Displays text on the terminal.
+man: Displays the manual page for a command.
+alias: Creates shortcuts for other commands.
+history: Displays previously executed commands.
+clear: Clears the terminal screen. 
+This is not an exhaustive list, but it covers a 
+
+
 ----- Next----
 ## For search a package 
 pacman -S [packageName]
