@@ -95,6 +95,8 @@ ls
 
 15. history: Displays previously executed commands. 
 
+16. chmod: Changes the permissions of files and directories. For example, chmod 755 script.sh grants read, write, and execute permissions to the owner and read and execute permissions to group and others. 
+
 
 Other Useful Commands:
 echo: Displays text on the terminal.
