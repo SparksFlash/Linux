@@ -107,6 +107,11 @@ clear: Clears the terminal screen.
 This is not an exhaustive list, but it covers a 
 
 
+17. Package Management (Distribution specific):
+apt-get (Debian/Ubuntu): Installs, updates, and removes software packages.
+yum (CentOS/RHEL): Installs, updates, and removes software packages. 
+
+
 ----- Next----
 ## For search a package 
 pacman -S [packageName]
