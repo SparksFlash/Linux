@@ -112,6 +112,9 @@ apt-get (Debian/Ubuntu): Installs, updates, and removes software packages.
 yum (CentOS/RHEL): Installs, updates, and removes software packages. 
 
 
+18. gawk  	Find and Replace text within file(s)
+
+
 ----- Next----
 ## For search a package 
 pacman -S [packageName]
