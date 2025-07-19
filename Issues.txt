@@ -215,4 +215,13 @@ For example, we will save the ping command’s output as new entries in the test
 ping 8.8.8.8 | tee -a test_network.txt
 
 
+
+
+
+
+###SERVER###
+
+python3 -m http.server 8000
+
+
 -----------------------------------------ENDS HERE-------------------------------------------------------------------------------
