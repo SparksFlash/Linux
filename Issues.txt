@@ -221,6 +221,10 @@ ping 8.8.8.8 | tee -a test_network.txt
 
 ###SERVER###
 
+The command python3 -m http.server 8000 starts a simple HTTP server in Python, which serves files from the current directory over HTTP.
+
+For example, the below command generates a simple web page over HTTP for the directory structure tree and can be accessed at port 8000 in the browser till an interrupt signal is sent.
+
 python3 -m http.server 8000
 
 
