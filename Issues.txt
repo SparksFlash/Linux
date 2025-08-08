@@ -232,5 +232,7 @@ python3 -m http.server 8000
 Date : 3.8.25
 
 man: Accesses manual pages for commands.
+Documentation:
+man <command>: Displays the manual page for a specified command, providing detailed information on its usage and options.
 
 -----------------------------------------ENDS HERE-------------------------------------------------------------------------------
