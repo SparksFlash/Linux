@@ -239,4 +239,5 @@ man <command>: Displays the manual page for a specified command, providing detai
 Date : 23.08.25
 ..cd
 
+https://manjaro.org/
 -----------------------------------------ENDS HERE-------------------------------------------------------------------------------
