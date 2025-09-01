@@ -236,7 +236,7 @@ Documentation:
 man <command>: Displays the manual page for a specified command, providing detailed information on its usage and options.
 
 
-Date : 23.08.25
+Date : 1.09.25
 ..cd
 
 https://manjaro.org/
