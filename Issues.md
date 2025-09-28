@@ -1,3 +1,7 @@
+Below is a structured, concise compilation of all the Linux commands from your input, organized by category in a single, easy-to-read format. Each command includes its syntax, a brief description, and examples where applicable. The focus is on Manjaro Linux (Arch-based, using `pacman`), but most commands are universal across Linux distributions.
+
+---
+
 # Linux Command Reference for Manjaro
 
 **Date**: September 28, 2025  
