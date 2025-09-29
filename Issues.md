@@ -1,5 +1,3 @@
----
-
 # Linux Command Reference for Manjaro
 
 **Date**: September 28, 2025  
