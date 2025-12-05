@@ -1,6 +1,6 @@
 # Linux Command Reference for Manjaro
 
-**Date**: December 2, 2025  
+**Date**: December 5, 2025  
 **Distribution**: Manjaro Linux (Arch-based)
 
 This guide organizes essential Linux commands by functionality, providing syntax, descriptions, and examples for quick reference.
@@ -22,7 +22,7 @@ This guide organizes essential Linux commands by functionality, providing syntax
    - Example: `su -`
 
 4. **Change Ownership**: Modify ownership of a directory (e.g., root folder).
-   - Syntax: `sudo chown -R $USER:$USER <directory>`
+   - Syntax: `sudo chown -R $USER:$USER <directory>
    - Example: `sudo chown -R $USER:$USER /`  
      *Warning*: Use cautiously; changing `/` ownership can break system permissions.
 
