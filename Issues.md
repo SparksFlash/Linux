@@ -292,3 +292,10 @@ This guide organizes essential Linux commands by functionality, providing syntax
 ---
 
 This structured list covers all provided commands in a clear, concise format. Let me know if you need further details or additional commands!
+
+
+
+
+
+
+# Chaotic AUR :
