@@ -1,6 +1,6 @@
 # Linux Command Reference for Manjaro
 
-**Date**: Mar 19, 2026
+**Date**: Mar 23, 2026
 **Distribution**: Manjaro Linux (Arch-based)
 
 This guide organizes essential Linux commands by functionality, providing syntax, descriptions, and examples for quick reference.
