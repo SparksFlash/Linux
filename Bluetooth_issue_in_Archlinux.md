@@ -1,4 +1,4 @@
-# 🔵 Arch Linux Bluetooth Setup & Troubleshooting Guide
+## Arch Linux Bluetooth Setup & Troubleshooting Guide
 
 This guide explains the complete process of fixing Bluetooth issues on Arch Linux — from "service not found" to fully working device connection and UI setup.
 
