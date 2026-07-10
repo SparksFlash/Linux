@@ -1,6 +1,6 @@
 # Linux Command Reference for Manjaro
 
-**Date**: Jun 8, 2026
+**Date**: Jul 10, 2026
 **Distribution**: Manjaro Linux (Arch-based)
 
 This guide organizes essential Linux commands by functionality, providing syntax, descriptions, and examples for quick reference.
@@ -13,7 +13,7 @@ This guide organizes essential Linux commands by functionality, providing syntax
    - Example: `sudo whoami`  
      *Output*: `root`
 
-2. **su**: Switch to another user (default: root).
+2. **su**: Switch to another user (defau lt: root).
    - Syntax: `su`
    - Example: `su`
 
